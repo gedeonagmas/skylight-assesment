@@ -1,0 +1,9 @@
+{
+    "editor.formatOnType": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.formatOnSave": true,
+    "cSpell.words": [
+        "resave",
+        "signup"
+    ]
+}
